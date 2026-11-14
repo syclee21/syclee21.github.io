@@ -1,0 +1,34 @@
+project:
+  type: website
+  render:
+    - "*.qmd"          # README.md and other notes are not turned into pages
+
+website:
+  title: "Shawn Lee"
+  description: "Environmental epidemiologist at Imperial College London working on air pollution, health impact assessment and economic modelling."
+  site-url: https://syclee21.github.io   # change once you know your address
+  favicon: images/favicon.png
+  navbar:
+    right:
+      - text: About
+        href: index.qmd
+      - research.qmd
+      - publications.qmd
+      - failures.qmd
+      - icon: github
+        href: https://github.com/syclee21
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Shawn Lee"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    respect-user-color-scheme: true   # follow the visitor's light/dark setting
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,34 @@
+---
+title: "Research"
+---
+
+My research asks how much air pollution costs society in health and money, and what we gain when we reduce it.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .theme-card}
+### Air pollution epidemiology
+Health effects of air pollutants such as NO₂ and PM~2.5~ across the life course, from pregnancy and childhood outcomes to ageing-related outcomes.
+:::
+
+::: {.g-col-12 .g-col-md-6 .theme-card}
+### Health impact assessment
+Estimating attributable burden and the health gains of interventions, drawing on HRAPIE-2 recommendations.
+:::
+
+::: {.g-col-12 .g-col-md-6 .theme-card}
+### Lifetable & economic modelling
+Life-years gained, QALYs and monetised benefits to support cost–benefit appraisal of environmental, climate change or Net-Zero policies.
+:::
+
+::: {.g-col-12 .g-col-md-6 .theme-card}
+### Evidence synthesis
+Systematic reviews and meta-analyses following PRISMA, including work on LLM-assisted literature screening and data extraction.
+:::
+
+:::
+
+## Current projects
+
+- **WellHome WP5**: Assessing the health and economic benefits of indoor air quality interventions such as a gas-to-electric cooker transition
+- **Air pollution and childhood asthma development**: Systematic review on air pollution exposure and childhood asthma development, collaboration with UKHSA

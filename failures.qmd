@@ -1,0 +1,55 @@
+---
+title: "Career Fails"
+description: "The applications, papers and plans that didn't work out."
+# How to edit: replace each [placeholder] line with a real entry, add as many
+# lines as you like (newest first), and delete any section you don't need.
+# Keep the "::: {.news}" and ":::" lines; they give the year-column layout.
+---
+
+Most CVs show only what worked. For every fellowship, paper or job listed on mine, most applications quietly didn't, and those rarely appear anywhere. This page lists them.
+
+The idea comes from Melanie Stefan, who suggested in *Nature* that scientists keep a "CV of failures" ([Stefan, 2010](https://doi.org/10.1038/nj7322-467a)). I share mine because rejection is a routine part of research, and seeing it written down may help anyone, especially students and early-career researchers, who wonders whether it happens to everyone. It does.
+
+## Fellowships I did not get
+
+::: {.news}
+- **20XX**  [Fellowship name], [Funder]
+- **20XX**  [Fellowship name], [Funder]
+:::
+
+## Grant applications that were not funded
+
+::: {.news}
+- **20XX**  [Grant scheme], [Funder] (co-applicant)
+- **20XX**  [Grant scheme], [Funder]
+:::
+
+## Jobs I did not get
+
+::: {.news}
+- **20XX**  [Position], [Institution]
+- **20XX**  [Position], [Institution]
+:::
+
+## Degree programmes I did not get into
+
+::: {.news}
+- **20XX**  [Programme], [University]
+:::
+
+## Awards and scholarships I did not get
+
+::: {.news}
+- **20XX**  [Award or scholarship], [Organisation]
+:::
+
+## Paper rejections
+
+::: {.news}
+- **20XX**  [Short paper title]: rejected by *[Journal]* and *[Journal]* before publication in *[Journal]*
+- **20XX**  [Short paper title]: rejected by *[Journal]*
+:::
+
+---
+
+*Last updated: November 2026.*

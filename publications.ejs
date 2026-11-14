@@ -1,0 +1,20 @@
+<%
+const me = (typeof templateParams !== "undefined" && templateParams.me) ? templateParams.me : "";
+const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+const boldMe = (authors) => {
+  const safe = esc(authors);
+  return me ? safe.split(esc(me)).join("<strong>" + esc(me) + "</strong>") : safe;
+};
+let lastYear = null;
+%>
+<div class="pub-list list">
+<% for (const item of items) { %>
+<% if (item.year !== lastYear) { lastYear = item.year; %>
+<h3 class="pub-year"><%= esc(item.year) %></h3>
+<% } %>
+<div class="pub" <%= metadataAttrs(item) %>>
+<div class="pub-title"><a href="<%= esc(item.path) %>"><%= esc(item.title) %></a><% if (item.featured) { %> <span class="pub-tag">Featured</span><% } %></div>
+<div class="pub-meta"><%= boldMe(item.authors) %>. <em><%= esc(item.journal) %></em>. <%= esc(item.year) %>.</div>
+</div>
+<% } %>
+</div>

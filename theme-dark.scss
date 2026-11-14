@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap");
+
+// Colours
+$primary:      #6cc3a9;
+$body-bg:      #121615;
+$body-color:   #e8ecea;
+$link-color:   $primary;
+$navbar-bg:    #121615;
+$navbar-fg:    #b4bfbb;
+$navbar-hl:    $primary;
+$footer-bg:    #121615;
+$footer-fg:    #9aa5a1;
+
+// Type
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+$headings-font-family:   "Fraunces", Georgia, serif;
+$headings-font-weight:   600;
+$font-size-root:         17px;
+$line-height-base:       1.65;

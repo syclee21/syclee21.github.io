@@ -1,0 +1,41 @@
+# Add one block per paper. Newest-first ordering is automatic (by year).
+# Fields:
+#   title    paper title
+#   authors  author list as it appears in the paper
+#   journal  journal name
+#   year     publication year
+#   path     link to the paper (DOI link is best)
+#   featured true to show a "Featured" tag (optional)
+
+- title: "Association between air pollution, multimorbidity and polypharmacy: a systematic review and meta-analysis"
+  authors: "Zhang, H., Rodemade, A., Wang, S., Zhang, X., **Lee, S.Y.**, Evangelopoulos, D., Maoyi, T., Wang, Z."
+  journal: "BMJ Public Health"
+  year: 2026
+  path: https://doi.org/10.1136/bmjph-2025-004782
+  featured: true
+
+- title: "London health burden of recent air pollution: Report for TfL and GLA "
+  authors: "Dajnak, D., **Lee, S.Y.**, Gregor, S., Holland, M., Beevers, S., Evangelopoulos, D."
+  journal: "Imperial Projects"
+  year: 2026
+  path: https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/environment-and-climate-change-case-studies-test/health-burden-air-pollution-london-2024
+  press coverage: BBC (https://www.bbc.co.uk/news/articles/czj8v7z1njgo), The Guardian (https://www.theguardian.com/environment/2026/jun/24/deaths-london-air-pollution-fallen-imperial-college)
+  featured: true
+
+- title: "The air quality, health and economic costs and benefits of a zero carbon UK: a comprehensive synopsis"
+  authors: "Beevers, S., Assareh, N., Beddows, A., Gregor, S., Holland, M., Flecht, D., Liu, Y., Goodman, A., Walton, H., Brand, C., Evangelopoulos, D., Wood, D., **Lee, S.Y.**, Vu, T., Dajnak, D."
+  journal: "NIHR Public Health Research"
+  year: 2026
+  path: https://doi.org/10.3310/gjsb3701
+
+- title: "Investigating links between long-term air pollution exposure and the risk of SARS-CoV-2 infection, COVID-19 hospitalisation and mortality: a systematic review and meta-analysis of cohort studies"
+  authors: "**Lee, S.Y.**, Schneider, A.B., Walton, H., Isaac, J., Hansell, A., Katsouyanni, K., Wood, D., Evangelopoulos, D."
+  journal: "Environmental Pollution"
+  year: 2025
+  path: https://doi.org/10.1016/j.envpol.2025.127222
+
+- title: "Health and associated economic benefits of reduced air pollution and increased physical activity from climate change policies in the UK"
+  authors: "Walton, H., Dajnak, D., Holland, M., Evangelopoulos, D., Wood, D., Brand, C., Assareh, N.,  Gregor, S., Beddows, A., **Lee, S.Y.**, Flecht, D., Liu, Y., Davies, B., Goodman, A., Vu, T., Beevers, S."
+  journal: "Environmental International"
+  year: 2025
+  path: https://www.dx.doi.org/10.1016/j.envint.2025.109283

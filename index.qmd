@@ -1,0 +1,46 @@
+---
+title: "Shawn Lee"
+subtitle: "Postdoctoral Researcher<br>Imperial College London"
+image: images/profile.JPG
+about:
+  template: trestles
+  image-shape: round
+  image-width: 13em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:shawn.lee@imperial.ac.uk
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=DFO69LMAAAAJ&hl=en&citsig=ACUpqDe0DrNchow_WkvmPDCdDnY9
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-8830-7044
+    - icon: github
+      text: GitHub
+      href: https://github.com/syclee21
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/leesyc/
+---
+
+I am an environmental epidemiologist at Imperial College London. My work combines **air pollution epidemiology**, **health impact assessment** and **economic modelling** to give policymakers evidence they can act on.
+
+I estimate the health and economic burden of air pollution, particularly NO₂ and PM~2.5~, and evaluate the benefits of policies that reduce exposure. Methodologically, I work with concentration–response functions, lifetable models and economic valuation (VOLY/QALY), and I lead evidence synthesis through systematic review and meta-analysis.
+
+I care about translating technical results into clear, policy-facing outputs, and my work has been covered in the media. 
+
+## Education
+
+PhD, Environmental Epidemiology & Public Health · Imperial College London, 2021-2025
+
+MPH, Global Health                              · Imperial College London, 2018-2019
+
+Bsc, Biomedical Science                         · St. George's, University of London, 2015-2018
+
+## News
+
+::: {.news}
+- **Dec 2026**  Oral presentation at the Air Quality in the 21st Century Conference at the Burlington House
+- **Nov 2026**  Oral and poster presentation at the UKHSA Annual Outdoor and Indoor Air Pollution Research Review Meeting
+:::
