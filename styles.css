@@ -1,0 +1,66 @@
+/* Shared styles for light and dark modes */
+:root {
+  --site-surface: #ffffff;
+  --site-line: #e4e1da;
+  --site-muted: #5d6763;
+  --site-accent: #1f6f5c;
+  --site-accent-soft: #e3f0ec;
+}
+body.quarto-dark {
+  --site-surface: #191f1d;
+  --site-line: #2a322f;
+  --site-muted: #9aa5a1;
+  --site-accent: #6cc3a9;
+  --site-accent-soft: #1d2f29;
+}
+
+.navbar { border-bottom: 1px solid var(--site-line); }
+.navbar-title { font-family: "Fraunces", Georgia, serif; font-weight: 600; }
+.nav-footer { border-top: 1px solid var(--site-line); }
+
+/* About page */
+body div.quarto-about-trestles .about-entity .about-links .about-link {
+  border-radius: 999px;
+  border: 1px solid var(--site-line);
+  color: var(--site-accent);
+  padding: 0.3em 0.9em;
+}
+body div.quarto-about-trestles .about-entity .about-links .about-link:hover {
+  border-color: var(--site-accent);
+}
+.quarto-title .subtitle,
+.about-entity .subtitle { color: var(--site-muted); }
+body div.quarto-about-trestles .about-entity .subtitle {
+  font-size: 1.05rem;
+}
+
+/* News list */
+.news ul { list-style: none; padding-left: 0; }
+.news li { padding: 6px 0; border-bottom: 1px dashed var(--site-line); }
+.news li:last-child { border-bottom: 0; }
+.news strong { display: inline-block; min-width: 6.5em; color: var(--site-muted); font-weight: 500; font-variant-numeric: tabular-nums; }
+
+/* Research theme cards */
+.grid:has(.theme-card) { margin-bottom: 2.5rem; }
+.theme-card {
+  background: var(--site-surface);
+  border: 1px solid var(--site-line);
+  border-radius: 12px;
+  padding: 18px 20px;
+}
+.theme-card h3 { margin-top: 0; font-size: 1.1rem; font-family: "Inter", system-ui, sans-serif; }
+.theme-card p { margin-bottom: 0; color: var(--site-muted); font-size: 0.95rem; }
+
+/* Publications */
+.pub-year { margin: 1.6rem 0 0.4rem; font-size: 1.2rem; color: var(--site-muted); }
+.pub { padding: 12px 0; border-bottom: 1px dashed var(--site-line); }
+.pub-title { font-weight: 600; }
+.pub-title a { text-decoration: none; }
+.pub-title a:hover { text-decoration: underline; }
+.pub-meta { color: var(--site-muted); font-size: 0.93rem; }
+.pub-meta strong { color: var(--bs-body-color); }
+.pub-tag {
+  display: inline-block; margin-left: 6px; padding: 1px 8px; border-radius: 999px;
+  background: var(--site-accent-soft); color: var(--site-accent);
+  font-size: 0.72rem; font-weight: 600; vertical-align: 2px;
+}
