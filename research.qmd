@@ -32,3 +32,9 @@ Systematic reviews and meta-analyses following PRISMA, including work on LLM-ass
 
 - **WellHome WP5**: Assessing the health and economic benefits of indoor air quality interventions such as a gas-to-electric cooker transition
 - **Air pollution and childhood asthma development**: Systematic review on air pollution exposure and childhood asthma development, collaboration with UKHSA
+
+## Grants and fundings
+
+- **Dame Julia Higgins Postdoc Collaborative Research Fund, Imperial College London (2025-2026)**: PI, Automating Environmental Health Literature Screening Using Large Language Models. Co-investigators: Dr Ling Huang, Dr Sujin Kang
+- **Pump Priming Award, MRC Centre for Environment and Health (2025-2026)**: PI, Analysing and improving the characterisation of the risk of lung cancer associated with air pollution exposure among never-smokers 
+- **PhD studentship, NIHR HPRU in Environmental Exposures and Health (2021-2025)**: For developing methods to improve evidence synthesis and understand how gestational ambient air pollution exposure and the risk of preterm birth. The studentship is affiliated with the Science & Solutions for a Changing Planet DTP Cohort 8, and Transition to Zero Pollution PhD Cohort 3.

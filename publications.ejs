@@ -1,10 +1,16 @@
 <%
 const me = (typeof templateParams !== "undefined" && templateParams.me) ? templateParams.me : "";
-const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const boldMe = (authors) => {
   const safe = esc(authors);
   return me ? safe.split(esc(me)).join("<strong>" + esc(me) + "</strong>") : safe;
 };
+// Press coverage: each entry can be {text, href} or just a URL
+const hostOf = (u) => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return String(u ?? ""); } };
+const pressHref = (p) => (typeof p === "string") ? p : (p?.href ?? p?.url ?? "");
+const pressText = (p) => (typeof p === "string") ? hostOf(p) : (p?.text ?? hostOf(pressHref(p)));
+const pressLinks = (list) => list.filter((p) => pressHref(p)).map((p) =>
+  `<a class="pub-press-link" href="${esc(pressHref(p))}">${esc(pressText(p))}</a>`).join("");
 let lastYear = null;
 %>
 <div class="pub-list list">
@@ -15,6 +21,9 @@ let lastYear = null;
 <div class="pub" <%= metadataAttrs(item) %>>
 <div class="pub-title"><a href="<%= esc(item.path) %>"><%= esc(item.title) %></a><% if (item.featured) { %> <span class="pub-tag">Featured</span><% } %></div>
 <div class="pub-meta"><%= boldMe(item.authors) %>. <em><%= esc(item.journal) %></em>. <%= esc(item.year) %>.</div>
+<% const press = Array.isArray(item.press) ? item.press : []; if (press.length) { %>
+<div class="pub-press"><span class="pub-press-label"><i class="bi bi-newspaper" aria-hidden="true"></i> In the press</span><%= pressLinks(press) %></div>
+<% } %>
 </div>
 <% } %>
 </div>

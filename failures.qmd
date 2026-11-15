@@ -13,41 +13,20 @@ The idea comes from Melanie Stefan, who suggested in *Nature* that scientists ke
 ## Fellowships I did not get
 
 ::: {.news}
-- **20XX**  [Fellowship name], [Funder]
-- **20XX**  [Fellowship name], [Funder]
+- **2026**  [SPHR Postdoc Launching Fellowship], [NIHR]
 :::
 
 ## Grant applications that were not funded
 
 ::: {.news}
-- **20XX**  [Grant scheme], [Funder] (co-applicant)
-- **20XX**  [Grant scheme], [Funder]
-:::
-
-## Jobs I did not get
-
-::: {.news}
-- **20XX**  [Position], [Institution]
-- **20XX**  [Position], [Institution]
-:::
-
-## Degree programmes I did not get into
-
-::: {.news}
-- **20XX**  [Programme], [University]
-:::
-
-## Awards and scholarships I did not get
-
-::: {.news}
-- **20XX**  [Award or scholarship], [Organisation]
+- **2025**  [NIHR Pre-application Support Fund], [NIHR]
 :::
 
 ## Paper rejections
 
 ::: {.news}
-- **20XX**  [Short paper title]: rejected by *[Journal]* and *[Journal]* before publication in *[Journal]*
-- **20XX**  [Short paper title]: rejected by *[Journal]*
+- **2025**  [Investigating links between long-term air pollution exposure and the risk of SARS-CoV-2 infection, COVID-19 hospitalisation and mortality: a systematic review and meta-analysis of cohort studies]: rejected by *[European Journal of Epidemiology]* and *[Environmental International]* before publication in *[Environmental Pollution]*
+- **2025**  [Health and associated economic benefits of reduced air pollution and increased physical activity from climate change policies in the UK]: rejected by *[Lancet Planetary Health]* and *[Environmental Health Perspectives]* before publication in *[Environmental International]*
 :::
 
 ---
