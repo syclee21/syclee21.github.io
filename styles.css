@@ -64,3 +64,13 @@ body div.quarto-about-trestles .about-entity .subtitle {
   background: var(--site-accent-soft); color: var(--site-accent);
   font-size: 0.72rem; font-weight: 600; vertical-align: 2px;
 }
+
+/* Press coverage links under a publication */
+.pub-press { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 8px; font-size: 0.8rem; }
+.pub-press-label { color: var(--site-muted); margin-right: 2px; }
+.pub-press-label .bi { margin-right: 3px; }
+.pub-press-link {
+  padding: 1px 10px; border: 1px solid var(--site-line); border-radius: 999px;
+  color: var(--site-accent); text-decoration: none;
+}
+.pub-press-link:hover { border-color: var(--site-accent); }
