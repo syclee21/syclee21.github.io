@@ -24,7 +24,7 @@ about:
       href: https://www.linkedin.com/in/leesyc/
 ---
 
-I am an environmental epidemiologist at Imperial College London. My work combines **air pollution epidemiology**, **health impact assessment** and **economic modelling** to give policymakers evidence they can act on.
+I am an environmental epidemiologist at the [Air Pollution Epidemiology Team](https://www.imperial.ac.uk/school-public-health/environmental-research-group/research/air-pollution-epidemiology/), Environmental Research Group, Imperial College London. My work combines **air pollution epidemiology**, **health impact assessment** and **economic modelling** to give policymakers evidence they can act on.
 
 I estimate the health and economic burden of air pollution, particularly NO₂ and PM~2.5~, and evaluate the benefits of policies that reduce exposure. Methodologically, I work with concentration–response functions, lifetable models and economic valuation (VOLY/QALY), and I lead evidence synthesis through systematic review and meta-analysis.
 
