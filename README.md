@@ -11,6 +11,7 @@ Built with [Quarto](https://quarto.org) and hosted on GitHub Pages.
 | `index.qmd` | About page |
 | `research.qmd` | Research themes and projects |
 | `publications.qmd` | Publications page; entries are in `publications.yml`, layout in `publications.ejs` |
+| `teaching.qmd` | Teaching and supervision |
 | `failures.qmd` | CV of Failures |
 | `_quarto.yml` | Site settings and navigation |
 | `styles.css`, `theme-light.scss`, `theme-dark.scss` | Styling |

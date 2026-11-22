@@ -14,6 +14,7 @@ website:
         href: index.qmd
       - research.qmd
       - publications.qmd
+      - teaching.qmd
       - failures.qmd
       - icon: github
         href: https://github.com/syclee21

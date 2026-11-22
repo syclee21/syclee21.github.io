@@ -1,0 +1,31 @@
+---
+title: "Teaching"
+description: "Teaching, supervision and training in environmental epidemiology and public health."
+# How to edit: replace each [placeholder] with a real entry (newest first) and
+# delete any section you don't need. Keep the "::: {.news}" and ":::" lines;
+# they give the date-column layout.
+# To add: 
+# Msc project in **2027**  MSc summer research project: a review of underground railway particulate matter and health (upcoming)
+#list outcomes that are already public and that students are proud of. Check with them first, but they'll almost always say yes. For example: 2027 MSc summer project: a review of underground railway particulate matter and health. Published in [Journal] or Presented at [Conference]; 2027 MSc project: [topic]. Student awarded the [department] prize for best dissertation 2027 MSc project: [topic]. Student now a PhD candidate at [University]
+## Guest lectures and workshops
+# **20XX**  "[Lecture title]", [Course or event], [Institution]
+## Teaching qualifications and training
+# **20XX**  [Qualification, e.g. Associate Fellowship of the Higher Education Academy (AFHEA)], [Awarding body]
+## Courses
+#**2025–Present**  Environmental Epidemiology, SPH Masters, Imperial College London: Lecturer
+# **2025–Present**  Environmental Policy & Impact Assessment, SPH Masters, Imperial College London: Lecturer
+---
+
+I teach and supervise students in the **Environmental Epidemiology** and **Environmental and Policy Impact Assessment** modules for the [Master of Public Health/Epidemiology/Health Data Analytics and Machine Learning programmes](https://www.imperial.ac.uk/school-public-health/study/postgraduate/masters/) at Imperial College London. 
+
+
+## Masters project supervision
+::: {.news}
+- **2026**  Systematic review on the association between air pollution exposure and development of specific asthma phenotypes in childhood. 
+
+- **2026**  Systematic review and meta-analysis on the association between prenatal air pollution exposure and chilhood astha development
+
+- **2026**  Systematic review on the association between air pollution exposure and healthy ageing outcomes 
+
+- **2025**  Literature review on the association between occupational microplastic exposure and health outcomes 
+
